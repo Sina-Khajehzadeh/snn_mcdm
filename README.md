@@ -1,1 +1,1 @@
-# sparse_deep_learning_MCDM
+# Sparse Deep Learning & MCDM
